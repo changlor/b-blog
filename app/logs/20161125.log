@@ -1,0 +1,4 @@
+[ 2016-11-25 19:21:54 ][NORMAL][Type] Exception [Info] Request URI / is not Matched by any route. [Line] /Users/changle/Documents/htdocs/api/blog/vendor/kokororin/kotori-php/src/Http/Route.php [File] 184
+[ 2016-11-25 19:22:02 ][NORMAL][Type] Run time notice caused due to error in code. [Info] Undefined index: HTTP_VERSION [Line] 41 [File] /Users/changle/Documents/htdocs/api/blog/app/controllers/Base.php
+[ 2016-11-25 19:22:02 ][NORMAL][Type] Run-time warning that does not cause script termination. [Info] array_walk_recursive() expects parameter 2 to be a valid callback, class 'Request' not found [Line] 232 [File] /Users/changle/Documents/htdocs/api/blog/vendor/kokororin/kotori-php/src/Http/Request.php
+[ 2016-11-25 19:22:02 ][NORMAL][Type] Run time notice caused due to error in code. [Info] Undefined index: HTTP_AUTH_TOKEN [Line] 63 [File] /Users/changle/Documents/htdocs/api/blog/app/controllers/Base.php

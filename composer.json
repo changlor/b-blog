@@ -1,0 +1,11 @@
+{
+    "require": {
+        "kokororin/kotori-php": "dev-master"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^2.5"
+    },
+    "scripts": {
+        "phpcs": "php vendor/bin/phpcs"
+    }
+}
